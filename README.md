@@ -73,13 +73,6 @@
   <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=QuanmetaStudio&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
 </div>
 <br>
-    
-<td valign="top">
-
-<!-- wakatime 统计 -->
-<table align="center">
-<tr>
-<td valign="top">  
 
 <!-- GitHub Activity Graph -->
 <table align="center">
@@ -91,4 +84,7 @@
 </table>
 
 <!-- just img -->
-<div align="center"><img width="250px" src="https://cdn.jsdelivr.net/gh/sun0225SUN/photos/images/202110311913581.gif"/></div>
+<div align="center">
+  <img width="250px" src="https://cdn.jsdelivr.net/gh/sun0225SUN/photos/images/202110311913581.gif"/>
+  <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/photos/images/202111021926704.png"/>
+</div>
